@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/machines2_bg.jpg
+  image_webp : images/about/machines2_bg.webp
+  title : Umfangreicher Maschinenpark
+  content : "Wir sind für unterschiedlichste Aufgaben gerüstet"
+  feature_item : 
+      # feature item loop
+    - title : Bagger
+      icon : ti-image # themify icon pack : https://themify.me/themify-icons
+      content : "20-Tonner: Terex 1905,&#10;&#13; 10-Tonner: Schaeff TW-95"
+      
+      # feature item loop
+    - title : Minibagger
+      icon : ti-layers # themify icon pack : https://themify.me/themify-icons
+      content : Auch zum Verleih!
+
+      # feature item loop
+    - title : Radlader
+      icon : ti-shopping-cart-full # themify icon pack : https://themify.me/themify-icons
+      content :
+      
+      # feature item loop
+    - title : LKW
+      icon : ti-truck # themify icon pack : https://themify.me/themify-icons
+      content : 3-Achser im Zug, Hakenlift-LKW

@@ -1,0 +1,19 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Mario Bach, Röttingen
+      image : images/client/client_bach_roettingen-1.jpg
+      #image_webp : images/client/client-1.webp
+      date : Dec 26, 2018
+      content : Setzen neuer Pfähle im Weinberg
+      
+    # testimonial item loop
+    - name : Klaus Büchhold, Markelsheim
+      image : images/client/client_buechhold_markelsheim-1.jpg
+      #image_webp : images/client/client-2.webp
+      date : Dec 26, 2018
+      content : Setzen neuer Kunststoff-Pfähle im Weinberg

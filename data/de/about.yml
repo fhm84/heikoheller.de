@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Über Uns
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Wir sind vielseitig
+    content : Egal ob Erdarbeiten, Pflasterarbeiten, Landschaftsbau, Schächte & Rohrleitungen, Weinbergpfähle, Transporte oder die Verleihung von Maschinen - bei uns sind Sie gold richtig.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Wir sind professionell ausgerüstet
+    content : Mit unserem Maschinenpark sind wir für viele Anwendungsbereiche bestens gerüstet. Von Minibagger über Rüttelplatten bis zu Großgeräten oder verschiedenste Schaufeln und sonstige Werkzeuge stehen uns eine Vielzahl unterschiedlichster Werkzeuge zur Verfügung.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Wir verwirklichen Ihre Ideen
+    content : Sie haben eine Idee oder Vorstellung der Um- oder Neugestaltung? Wir unterstützen Sie von der Konzeption bis zur Umsetzung.

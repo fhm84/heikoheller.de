@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Zuverlässigkeit ist unsere Stärke!"
+  content : "Mit unseren Baggern und Maschinen sind wir für kleine und große Erdarbeiten bestens gerüstet und führen Ihre Erdarbeiten mit modernster Lasertechnik exakt aus."
+  button:
+    enable : false
+    label : "Start a project with us"
+    link : "#contact"

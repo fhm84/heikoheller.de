@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Unsere Leistungen
+  service_item :
+    # service item loop
+    - name : Erdbau
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content :
+      
+    # service item loop
+    - name : Pflasterarbeiten
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content :
+
+    # service item loop
+    - name : Transporte
+      icon : ti-truck # themify icon pack : https://themify.me/themify-icons
+      content :
+
+    # service item loop
+    - name : Weinbergpfähle
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content :
+
+    # service item loop
+    - name : Schächte &amp; Rohrleitungen
+      icon : ti-direction-alt # themify icon pack : https://themify.me/themify-icons
+      content :
+
+    # service item loop
+    - name : Garten-/Landschaftsbau
+      icon : ti-gallery # themify icon pack : https://themify.me/themify-icons
+      content :

@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Baggerarbeiten - Heiko Heller"
+  content : "Zuverlässigkeit ist unsere Stärke! &#10;&#13; ... seit 10 Jahren &#127942;"
+  button:
+    enable : false
+    label : "Explore Us"
+    link : "#services"

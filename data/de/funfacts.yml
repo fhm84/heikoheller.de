@@ -1,0 +1,25 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    # counter item loop
+    - title : "Bagger"
+      icon : "ti-hummer" # themify icon pack : https://themify.me/themify-icons
+      count : "5"
+    
+    # counter item loop
+    - title : "&#128170; Mann"
+      icon : "ti-user" # themify icon pack : https://themify.me/themify-icons
+      count : "3"
+    
+    # counter item loop
+    - title : "LKW"
+      icon : "ti-truck" # themify icon pack : https://themify.me/themify-icons
+      count : "2"
+    
+    # counter item loop
+    - title : "Jahre &#127874;"
+      icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
+      count : "10"

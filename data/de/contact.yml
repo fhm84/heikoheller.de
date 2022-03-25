@@ -1,0 +1,34 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Kontaktieren Sie uns
+  subtitle : Kontakt Details
+  content : Sie haben Fragen? Oder möchten ein Angebot? Treten Sie gerne mit uns in Kontakt.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Schäftersheimer Pfad 1, 97999 Igersheim-Neuses"
+      
+    - icon : ti-bell # themify icon pack : https://themify.me/themify-icons
+      info : "07931/45119"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "0172/9863603"
+
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      info : "07931/9599579"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "heiko.heller79@t-online.de"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://submit-form.com/Y8ZyckDf" #"https://formspree.io/heiko.heller79@t-online.de" #contact form works with https://formspree.io
+    name : "Ihr Name"
+    email : "Ihre Email"
+    subject : "Betreff"
+    message : "Nachricht"
+    submit : "Absenden"

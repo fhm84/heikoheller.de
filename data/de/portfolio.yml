@@ -1,0 +1,141 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Unsere Arbeit
+  portfolio_item :
+    - name: Erdarbeiten
+      image: images/portfolio/2022-03_Aushub_Hausbau_01.jpg
+      #image_webp : images/portfolio/portfolio-1.webp
+      categories: [ "erdarbeiten" ]
+      content: Aushub Neubau Wohnhaus
+      #link : "https://themefisher.com"
+
+    - name : Weinbergpfähle
+      image : images/portfolio/DSCN0006.jpg
+      #image_webp : images/portfolio/portfolio-1.webp
+      categories : ["weinberg"]
+      content : Setzen neuer Pfähle im Weinberg
+      #link : "https://themefisher.com"
+      
+    - name : Natursteinmauer
+      image : images/portfolio/DSCN0057.jpg
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["gartenbau"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : ""
+      
+    - name : Pflasterarbeiten
+      image : images/portfolio/IMG_2437.jpg
+      #image_webp : images/portfolio/portfolio-3.webp
+      categories : ["gartenbau"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"
+      
+    # portfolio item loop
+    - name : Holz spalten
+      image : images/portfolio/DSCN0260.jpg
+      #image_webp : images/portfolio/portfolio-4.webp
+      categories : ["landschaft"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"
+
+    - name: Erdarbeiten
+      image: images/portfolio/2022-03_Aushub_Hausbau_02.jpg
+      #image_webp : images/portfolio/portfolio-1.webp
+      categories: [ "erdarbeiten" ]
+      content: Aushub Neubau Wohnhaus
+      #link : "https://themefisher.com"
+
+    # portfolio item loop
+    - name : Pflasterarbeiten
+      image : images/portfolio/DSCN0049.jpg
+      #image_webp : images/portfolio/portfolio-5.webp
+      categories : ["landschaft"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"
+      
+    # portfolio item loop
+    - name : Weinbergpfähle
+      image : images/portfolio/DSCN0036.jpg
+      #image_webp : images/portfolio/portfolio-6.webp
+      categories : ["weinberg"]
+      content : Setzen neuer Kunststoffpfähle im Weinberg
+      #link : "#"
+
+    - name: Erdarbeiten
+      image: images/portfolio/2022-03_Aushub_Hausbau_03.jpg
+      #image_webp : images/portfolio/portfolio-1.webp
+      categories: [ "erdarbeiten" ]
+      content: Aushub Neubau Wohnhaus
+      #link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : Natursteinmauer
+      image : images/portfolio/DSCN0110.jpg
+      #image_webp : images/portfolio/portfolio-7.webp
+      categories : ["gartenbau"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"
+      
+    # portfolio item loop
+    - name : Weinbergpfähle
+      image : images/portfolio/DSCN0010.jpg
+      #image_webp : images/portfolio/portfolio-8.webp
+      categories : ["weinberg"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"
+      
+    # portfolio item loop
+    - name : Holz spalten
+      image : images/portfolio/DSCN0278.jpg
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["landschaft"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"
+
+    # portfolio item loop
+    - name : Holz spalten
+      image : images/portfolio/DSCN0239.jpg
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["landschaft"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"
+
+    # portfolio item loop
+    - name : Weinbergpfähle
+      image : images/portfolio/DSCN0040.jpg
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["weinberg"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"
+
+    - name: Erdarbeiten
+      image: images/portfolio/2022-03_Aushub_Hausbau_04.jpg
+      #image_webp : images/portfolio/portfolio-1.webp
+      categories: [ "erdarbeiten" ]
+      content: Aushub Neubau Wohnhaus
+      #link : "https://themefisher.com"
+
+    # portfolio item loop
+    - name : Pflasterarbeiten
+      image : images/portfolio/DSCN0112.jpg
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["gartenbau"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"
+
+    # portfolio item loop
+    - name : Holz spalten
+      image : images/portfolio/DSCN0234.jpg
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["landschaft"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"
+
+    # portfolio item loop
+    - name : Natursteinmauer
+      image : images/portfolio/DSCN0052.jpg
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["gartenbau"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      #link : "#"

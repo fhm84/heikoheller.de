@@ -1,0 +1,80 @@
+#################################### portfolio ###############################
+machines:
+  enable : true
+  title : Unser Maschinenpark
+  machine_item :
+    - name : Bagger
+      image : images/machines/IMG_2878.jpg
+      categories : ["bagger"]
+      content : 20-Tonnen Bagger
+
+    - name: Bagger
+      image: images/machines/IMG_2836.jpg
+      categories: [ "bagger" ]
+      content: 10-Tonnen Bagger
+
+    - name : LKW
+      image : images/machines/IMG_2819.jpg
+      categories : ["lkw"]
+      content : Hakenlift LKW
+
+    - name : LKW
+      image : images/machines/IMG_2846.jpg
+      categories : ["lkw"]
+      content : 3-Achser im Zug
+
+    - name: Bagger
+      image: images/machines/IMG_2883.jpg
+      categories: [ "bagger" ]
+      content:
+
+    - name: Bagger
+      image: images/machines/IMG_2881.jpg
+      categories: [ "bagger" ]
+      content: Mini-Bagger - auch zum Verleih!
+
+    - name: Bagger
+      image: images/machines/IMG_2869.jpg
+      categories: [ "bagger" ]
+      content: Mini-Bagger - auch zum Verleih!
+
+    - name : LKW
+      image : images/machines/lkws_von_oben_3.jpg
+      categories : ["lkw"]
+      content :
+
+    - name: Bagger
+      image: images/machines/IMG_2938.jpg
+      categories: [ "bagger" ]
+      content:
+
+    - name: Bagger
+      image: images/machines/IMG_2954.jpg
+      categories: [ "bagger" ]
+      content:
+
+    - name: Bagger
+      image: images/machines/bagger_von_oben_15.jpg
+      categories: [ "bagger" ]
+      content:
+
+    - name : Verdichtungsgeräte
+      image : images/machines/IMG_2825.jpg
+      categories : ["verdichtungsgeräte"]
+
+    - name : LKW
+      image : images/machines/IMG_2787.jpg
+      categories : ["lkw"]
+      content :
+
+    - name : Stampfer
+      image : images/machines/IMG_2826.jpg
+      categories : ["verdichtungsgeräte"]
+
+    - name : Rüttelplatte
+      image : images/machines/IMG_2827.jpg
+      categories : ["verdichtungsgeräte"]
+
+    - name : Rüttelplatte
+      image : images/machines/IMG_2828.jpg
+      categories : ["verdichtungsgeräte"]

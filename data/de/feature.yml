@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/services_bg.jpg
+  image_webp : images/about/services_bg.webp
+  title : Bestens gerüstet für kleine und große Erdarbeiten
+  content :
+  feature_item : 
+      # feature item loop
+    - title : Erdbau
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Tiefbauarbeiten, Erdaushübe
+      
+      # feature item loop
+    - title : Weinbergpfähle
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content :
+
+      # feature item loop
+    - title : Garten-/Landschaftsbau
+      icon : ti-image # themify icon pack : https://themify.me/themify-icons
+      content : Pflasterarbeiten, Natursteine
+      
+      # feature item loop
+    - title : Transporte
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Schüttguttransporte
