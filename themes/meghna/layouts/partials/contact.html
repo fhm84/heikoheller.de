@@ -39,18 +39,20 @@
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form">
 					<div class="form-group">
-						<input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name">
+						<input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name" required>
 					</div>
 					<div class="form-group">
-						<input type="email" placeholder="{{ .email }}" class="form-control" name="email" id="email">
+						<input type="email" placeholder="{{ .email }}" class="form-control" name="email" id="email" required>
 					</div>
 					<div class="form-group">
-						<input type="text" placeholder="{{ .subject }}" class="form-control" name="subject" id="subject">
+						<input type="text" placeholder="{{ .subject }}" class="form-control" name="subject" id="subject" required>
 					</div>
 					<div class="form-group">
-						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message"></textarea>
+						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message" required></textarea>
 					</div>
 					<div id="cf-submit">
+						<input type="hidden" name="_subject" value="Nachricht aus dem Kontakt-Formular">
+						<input type="text" name="_honey" style="display:none">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
 							value="{{ .submit }}">{{ .submit }}</button>
 					</div>

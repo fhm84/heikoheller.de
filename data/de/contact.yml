@@ -26,7 +26,7 @@ contact:
   # Contact form
   contact_form:
     enable : true
-    form_action : "https://submit-form.com/Y8ZyckDf" #"https://formspree.io/heiko.heller79@t-online.de" #contact form works with https://formspree.io
+    form_action : "https://formsubmit.co/heiko.heller79@t-online.de" #"https://submit-form.com/Y8ZyckDf" #"https://formspree.io/heiko.heller79@t-online.de" #contact form works with https://formspree.io
     name : "Ihr Name"
     email : "Ihre Email"
     subject : "Betreff"
