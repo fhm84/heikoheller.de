@@ -18,22 +18,6 @@ team:
         #  link : "#"
         #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
         #  link : "#"
-        
-    # team member loop
-    - name : Lothar
-      #image_webp : images/team/team-2.webp
-      image : images/team/lothar.jpg
-      designation : Mitarbeiter
-      content : Mehr als 20 Jahre Erfahrung.
-      #social :
-      #  - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-      #    link : "#"
-      #  - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-      #    link : "#"
-      #  - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-      #    link : "#"
-      #  - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-      #    link : "#"
 
     # team member loop
     - name: Max
@@ -50,3 +34,9 @@ team:
       #    link : "#"
       #  - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #    link : "#"
+
+    # team member loop
+    - name: Du?
+      image: images/team/unknown.jpg
+      designation:
+      content: Wir suchen Verstärkung!

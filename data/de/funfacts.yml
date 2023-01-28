@@ -12,7 +12,7 @@ funfacts:
     # counter item loop
     - title : "&#128170; Mann"
       icon : "ti-user" # themify icon pack : https://themify.me/themify-icons
-      count : "3"
+      count : "2"
     
     # counter item loop
     - title : "LKW"
